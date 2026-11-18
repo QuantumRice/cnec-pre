@@ -1,0 +1,6 @@
+fonts/
+*.log
+burn.sh
+burn_drawtext.py
+videos/*.zh.vtt
+.DS_Store
